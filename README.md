@@ -1,0 +1,2 @@
+# Stasher
+Crypto-Currency Wallet
